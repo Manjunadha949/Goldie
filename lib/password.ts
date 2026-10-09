@@ -1,0 +1,4 @@
+import {env} from './runtime';
+import {equalSecret} from './access';
+export async function passwordHash(password:string,salt:string){const key=await crypto.subtle.importKey('raw',new TextEncoder().encode(password),'PBKDF2',false,['deriveBits']);const bits=await crypto.subtle.deriveBits({name:'PBKDF2',salt:new TextEncoder().encode(salt),iterations:100000,hash:'SHA-256'},key,256);return Array.from(new Uint8Array(bits),b=>b.toString(16).padStart(2,'0')).join('');}
+export async function verifyPassword(password:string){const row=await env.DB!.prepare('SELECT hash,salt FROM studio_credentials WHERE id = ?').bind('owner').first<{hash:string,salt:string}>();if(row)return equalSecret(await passwordHash(password,row.salt),row.hash);const config=env as typeof env & {STUDIO_PASSWORD?:string};return !!config.STUDIO_PASSWORD&&equalSecret(password,config.STUDIO_PASSWORD);}

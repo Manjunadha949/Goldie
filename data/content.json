@@ -1,0 +1,909 @@
+{
+  "settings": {
+    "whatsapp": "919052666108",
+    "email": "dr.meghana2106@gmail.com",
+    "instagram": "https://www.instagram.com/dr.lakshmimeghana/",
+    "youtube": "https://www.youtube.com/@dr.gadalakshmimeghana/videos",
+    "facebook": "https://www.facebook.com/yuktaspecialityclinics",
+    "linkedin": "https://www.linkedin.com/company/yukta-speciality-clinics",
+    "website": "https://yuktaspecialityclinics.com/",
+    "previewCount": 3
+  },
+  "locations": [
+    {
+      "name": "Spinova Hospitals",
+      "address": "Opposite Pillar 799, Plot 2A & 2B, Baghameeri, Kukatpally, Hyderabad.",
+      "timing": "9:00 AM – 6:00 PM",
+      "map": "https://www.google.com/maps/search/?api=1&query=Spinova+Super+Speciality+Hospital&query_place_id=ChIJOWjGO1SRyzsRoe_MJzFjmpQ",
+      "showAppointment": false,
+      "mapQuery": "Spinova Super Speciality Hospital Kukatpally Hyderabad",
+      "mapEmbed": "",
+      "area": "Kukatpally, Hyderabad",
+      "phone": "919053111333",
+      "email": "",
+      "rating": "4.9",
+      "reviewCount": "64",
+      "ratingDate": "8 Oct 2026"
+    },
+    {
+      "name": "Yukta Speciality Clinics",
+      "address": "3rd Floor, Sun Trinity, above Pizza Hut, Anjaneya Nagar, Green Hills Road, Kukatpally, Hyderabad.",
+      "timing": "6:00 PM – 9:00 PM",
+      "map": "https://www.google.com/maps?cid=6727066242057711178",
+      "showAppointment": true,
+      "mapQuery": "Yukta Speciality Clinics Kukatpally Hyderabad",
+      "mapEmbed": "https://www.google.com/maps?cid=6727066242057711178&output=embed",
+      "area": "Kukatpally, Hyderabad",
+      "phone": "919052666108",
+      "email": "info@yuktaspecialityclinics.com",
+      "rating": "5.0",
+      "reviewCount": "61",
+      "ratingDate": "8 Oct 2026"
+    }
+  ],
+  "expertise": [
+    {
+      "id": "diabetes",
+      "title": "Diabetes & Lifestyle Disease Management",
+      "summary": "A personal plan for blood sugar, daily habits, and long-term well-being.",
+      "body": "Diabetes means blood glucose is persistently too high. Care looks beyond a single reading to your symptoms, medical history, daily routine, and related health risks.\n\nDr. Meghana’s approach combines individual attention, evidence-based treatment, and practical lifestyle support. Consultation can help you understand your results, discuss your concerns, and plan ongoing review.\n\nBring recent glucose reports, your current prescriptions, and any home readings. The care plan may include nutrition, activity, monitoring, and medication, based on your individual needs.",
+      "image": "/assets/diabetes.svg",
+      "url": "",
+      "source": "https://www.niddk.nih.gov/health-information/diabetes/overview",
+      "faqs": [
+        {
+          "question": "Can I have diabetes without symptoms?",
+          "answer": "Yes. Some people have no obvious symptoms; blood tests are used to assess diabetes."
+        },
+        {
+          "question": "Is everyone given the same treatment?",
+          "answer": "No. Treatment and monitoring depend on the type of diabetes and your personal health needs."
+        },
+        {
+          "question": "Should I stop medication when readings improve?",
+          "answer": "Discuss changes with your treating doctor; an improved reading alone is not a reason to stop prescribed treatment."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "hypertension",
+      "title": "Hypertension & Cardiovascular Health",
+      "summary": "Care for blood pressure and the health of your heart.",
+      "body": "High blood pressure can be present without obvious symptoms. Repeated, correctly taken measurements help your doctor understand whether it needs treatment.\n\nA consultation considers your readings alongside your health history, medicines, and lifestyle. Dr. Meghana provides personalised care and follow-up, with attention to cardiovascular well-being.\n\nBring your blood pressure record and a list of medicines. Discuss realistic changes to food, activity, and other habits, as well as any medication questions.",
+      "image": "/assets/hypertension.svg",
+      "url": "",
+      "source": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+      "faqs": [
+        {
+          "question": "Will I always feel high blood pressure?",
+          "answer": "No. Many people feel well even when their blood pressure is high."
+        },
+        {
+          "question": "Does one high reading confirm hypertension?",
+          "answer": "An isolated reading needs context. Your doctor may recommend repeat measurements and further assessment."
+        },
+        {
+          "question": "When is urgent care needed?",
+          "answer": "Chest pain, severe breathlessness, or sudden weakness or difficulty speaking need emergency assessment. Do not wait for an online appointment."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "thyroid",
+      "title": "Thyroid Disorders",
+      "summary": "Understand your thyroid and find a treatment plan that fits you.",
+      "body": "The thyroid produces hormones that influence many body functions. An underactive thyroid can cause tiredness, sensitivity to cold, or weight changes, but these symptoms can also have other causes.\n\nThyroid care begins with your symptoms, history, and appropriate blood tests. Dr. Meghana offers personalised evaluation and ongoing management of thyroid-related conditions.\n\nBring previous thyroid reports and details of medicines or supplements. Follow-up helps assess your response and whether your plan needs adjustment.",
+      "image": "/assets/thyroid.svg",
+      "url": "",
+      "source": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism",
+      "faqs": [
+        {
+          "question": "Can symptoms alone confirm a thyroid disorder?",
+          "answer": "No. Blood tests and clinical assessment help distinguish thyroid problems from other causes."
+        },
+        {
+          "question": "Will I need repeated tests?",
+          "answer": "Your doctor decides when to repeat tests based on the condition and treatment."
+        },
+        {
+          "question": "What if I am planning pregnancy?",
+          "answer": "Tell your doctor before pregnancy, as thyroid assessment and treatment may need closer attention."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "immunization",
+      "title": "Adult Immunization",
+      "summary": "Protection tailored to your age, health, and daily life.",
+      "body": "Vaccination is relevant throughout adulthood. Recommendations depend on your age, medical conditions, previous vaccination history, work, travel, and pregnancy status.\n\nDr. Meghana offers an individual vaccination review. Bring any vaccine records and mention allergies or reactions to earlier doses, so that the discussion is based on your own circumstances.\n\nThe consultation can clarify which vaccines are appropriate and how follow-up doses should be planned. Recommendations are adapted to local guidance and individual needs.",
+      "image": "/assets/immunization.svg",
+      "url": "",
+      "source": "https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html",
+      "faqs": [
+        {
+          "question": "Are vaccines only for children?",
+          "answer": "No. Adults may need routine vaccines, boosters, or vaccines for particular risks."
+        },
+        {
+          "question": "What if I cannot find my records?",
+          "answer": "Tell the doctor which vaccines you remember receiving and approximately when."
+        },
+        {
+          "question": "Can I discuss travel vaccines?",
+          "answer": "Yes. Share your destination and travel date early, so that any required planning can be discussed."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "preventive-care",
+      "title": "Preventive & Wellness Medicine",
+      "summary": "Make space for your health before concerns become bigger.",
+      "body": "Preventive care is a conversation about your health today and the changes you want to make for tomorrow. It considers your history, family health, existing conditions, and daily routine.\n\nDr. Meghana encourages awareness, patient education, and sustainable lifestyle choices. A personalised review can help identify what deserves attention and which health goals are practical for you.\n\nBring your previous reports and a few questions you would like answered. The discussion should help you leave with a clearer understanding of the next steps.",
+      "image": "/assets/preventive-care.svg",
+      "url": "",
+      "source": "https://www.niddk.nih.gov/health-information/diabetes/overview",
+      "faqs": [
+        {
+          "question": "Does everyone need the same check-up package?",
+          "answer": "No. Discuss which assessments are relevant to your individual history and concerns."
+        },
+        {
+          "question": "Can I attend without a current illness?",
+          "answer": "Yes. Preventive consultations provide an opportunity to discuss health goals and risk factors."
+        },
+        {
+          "question": "What should I discuss?",
+          "answer": "Share your daily routine, family history, ongoing medicines, and the health changes that matter to you."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "infections",
+      "title": "Infectious & Tropical Diseases",
+      "summary": "Thoughtful evaluation of infections and related concerns.",
+      "body": "Infections can have many causes, so your symptoms, their timing, and any recent travel or exposure are important parts of the discussion.\n\nDr. Meghana’s general medicine care includes infectious and tropical diseases. Evaluation is personalised rather than based on symptoms alone, with investigations and follow-up guided by your clinical needs.\n\nFor example, dengue is spread by infected mosquitoes and can range from a mild illness to a serious condition. Severe abdominal pain, persistent vomiting, or bleeding require urgent assessment.",
+      "image": "/assets/infections.svg",
+      "url": "",
+      "source": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "faqs": [
+        {
+          "question": "Do all infections need antibiotics?",
+          "answer": "No. Treatment depends on the cause; avoid choosing antibiotics without medical advice."
+        },
+        {
+          "question": "What information is useful?",
+          "answer": "Note when symptoms started, any travel, similar illness around you, and medicines already taken."
+        },
+        {
+          "question": "Do I need tests before visiting?",
+          "answer": "Share any existing reports. Further tests should be selected after an appropriate assessment."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "fever",
+      "title": "Evaluation of Fever",
+      "summary": "A clear assessment of the symptoms behind a fever.",
+      "body": "A fever is a symptom, not a complete diagnosis. Your doctor considers how long it has lasted, other symptoms, your medical history, and examination findings.\n\nDr. Meghana offers individual evaluation, with investigations and follow-up chosen according to the clinical picture. Keep a record of temperature readings and medicines taken if available.\n\nDo not rely only on the temperature coming down to judge recovery. In dengue, warning signs can appear after fever improves. Persistent vomiting, bleeding, or severe abdominal pain need urgent care.",
+      "image": "/assets/fever.svg",
+      "url": "",
+      "source": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "faqs": [
+        {
+          "question": "What should I bring?",
+          "answer": "Bring recent reports, prescriptions, and a short timeline of symptoms."
+        },
+        {
+          "question": "Is every fever dengue?",
+          "answer": "No. There are many possible causes. Assessment and appropriately timed tests help clarify the diagnosis."
+        },
+        {
+          "question": "Can I message for an emergency?",
+          "answer": "WhatsApp is for consultation enquiries. Seek emergency care for severe or rapidly worsening symptoms."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "pregnancy-medicine",
+      "title": "Medical Disorders in Pregnancy",
+      "summary": "Medical care coordinated around mother and baby.",
+      "body": "Existing medical conditions and new concerns during pregnancy deserve individual attention. Tell your healthcare team about your medical history, current prescriptions, supplements, and pregnancy plans.\n\nDr. Meghana’s physician services include medical disorders in pregnancy, alongside care from your obstetric team. The aim is a coordinated plan that takes your circumstances and ongoing maternity care into account.\n\nBring antenatal records and relevant reports. Questions about blood pressure, diabetes, thyroid conditions, or medication should be discussed directly with your treating doctors.",
+      "image": "/assets/pregnancy-medicine.svg",
+      "url": "",
+      "source": "https://www.who.int/health-topics/maternal-health",
+      "faqs": [
+        {
+          "question": "Does a physician replace my obstetrician?",
+          "answer": "No. Medical care is coordinated with your obstetric and maternity team."
+        },
+        {
+          "question": "Should I mention a condition before pregnancy?",
+          "answer": "Yes. Discuss existing conditions and medicines when planning pregnancy."
+        },
+        {
+          "question": "Can I change a prescription myself?",
+          "answer": "Speak with your treating doctors before changing or stopping prescribed medication."
+        }
+      ],
+      "published": true
+    },
+    {
+      "id": "geriatrics",
+      "title": "Geriatrics",
+      "summary": "Personalised support for health, function, and independence.",
+      "body": "Health needs in later life vary widely. A useful review considers not only medical conditions but also daily function, mobility, hearing, vision, and the support available at home.\n\nDr. Meghana offers attentive care for older adults, including discussion of ongoing conditions, medicines, and personal priorities. The approach recognises the individual behind the medical record.\n\nBring a current medication list and earlier reports. A family member or caregiver can join the discussion if the patient wishes.",
+      "image": "/assets/geriatrics.svg",
+      "url": "",
+      "source": "https://www.who.int/news-room/fact-sheets/detail/ageing-and-health",
+      "faqs": [
+        {
+          "question": "What is the focus of geriatric care?",
+          "answer": "Supporting well-being and everyday function while addressing the person’s medical needs."
+        },
+        {
+          "question": "Can a family member attend?",
+          "answer": "Yes, if the patient is comfortable with their participation."
+        },
+        {
+          "question": "What helps prepare for the visit?",
+          "answer": "Write down changes in daily activities, current concerns, and all medicines being taken."
+        }
+      ],
+      "published": true
+    }
+  ],
+  "blogs": [
+    {
+      "id": "first-consultation",
+      "title": "Make the most of your first visit",
+      "summary": "A simple way to organise your questions and records.",
+      "body": "A consultation is your time to talk about what matters to you. Start by writing down your main concern and when it began. Note any changes you have noticed and the questions you would most like answered.\n\nKeep previous reports, prescriptions, and your medicine list together. If you already record blood pressure or glucose at home, bring those records too.\n\nBefore leaving, ask what the next step is and how to arrange a follow-up. If any part of the discussion is unclear, ask for it to be explained again. Clear communication is part of good care.",
+      "image": "/assets/doctor-consultation.png",
+      "url": "",
+      "source": "Patient visit guide",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "health-conversation",
+      "title": "Your health, your questions",
+      "summary": "Make room for the conversation behind the consultation.",
+      "body": "It can be easy to forget a question during an appointment. A short list helps keep the conversation focused on the things that affect your everyday life.\n\nYou might want to ask what a test is intended to show, how a care plan fits your routine, or when a follow-up is needed. Share practical concerns such as work schedules or difficulty understanding a prescription.\n\nA trusted family member can help take notes if you would like support. Your preferences and questions are useful parts of the discussion.",
+      "image": "/assets/gallery-7.png",
+      "url": "",
+      "source": "Patient communication guide",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "follow-up",
+      "title": "Keep your follow-up simple",
+      "summary": "Bring your progress and questions into one place.",
+      "body": "A follow-up visit is a chance to review what has changed since your last consultation. Keep the previous care plan and any new reports together so that the conversation has a clear starting point.\n\nWrite down questions about your medicines, daily routine, or any new concerns. Describe what is working well and what is proving difficult.\n\nConfirm the next appointment and any tests your doctor has requested. For urgent symptoms, seek appropriate medical care instead of waiting for a routine follow-up.",
+      "image": "/assets/preventive-care.svg",
+      "url": "",
+      "source": "Follow-up visit guide",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "articles": [
+    {
+      "id": "understanding-diabetes",
+      "title": "Understanding diabetes",
+      "summary": "A starting point for understanding blood glucose and ongoing care.",
+      "body": "Diabetes affects how the body handles blood glucose. Some people notice thirst, tiredness, or changes in vision; others have no obvious symptoms.\n\nA care plan considers glucose results alongside blood pressure, cholesterol, everyday habits, and prescribed treatment. Your doctor can explain what your results mean and decide when you need follow-up.\n\nThe NIDDK overview below provides further background on diabetes and its management.",
+      "image": "/assets/diabetes.svg",
+      "url": "",
+      "source": "https://www.niddk.nih.gov/health-information/diabetes/overview",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "blood-pressure",
+      "title": "Why blood pressure matters",
+      "summary": "High blood pressure can be present even when you feel well.",
+      "body": "High blood pressure often has no noticeable symptoms. Measuring it is an important part of understanding cardiovascular health.\n\nYour doctor interprets readings in context and can discuss treatment and lifestyle changes suited to you. Bring any home records to the consultation rather than relying on memory.\n\nThe World Health Organization’s overview below explains the condition in more detail.",
+      "image": "/assets/hypertension.svg",
+      "url": "",
+      "source": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "thyroid-awareness",
+      "title": "Understanding thyroid symptoms",
+      "summary": "Why an assessment matters more than symptoms alone.",
+      "body": "Thyroid symptoms can overlap with other health conditions. Tiredness or weight changes alone cannot tell you whether your thyroid is underactive.\n\nA clinical assessment and blood tests help clarify the cause. Bring previous results and medicine details to your visit so that any changes can be reviewed.\n\nRead the NIDDK resource below for more about hypothyroidism.",
+      "image": "/assets/thyroid.svg",
+      "url": "",
+      "source": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "videos": [
+    {
+      "id": "clinic-video",
+      "title": "Stay Healthy This Rainy Season",
+      "summary": "Dr. Meghana’s health awareness video in Telugu.",
+      "body": "Watch the original video below. Its content and playback are provided by YouTube.",
+      "image": "https://i.ytimg.com/vi/5oiHzwCfd_4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5oiHzwCfd_4",
+      "source": "Dr. Lakshmi Meghana MD · YouTube",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "clinic-short",
+      "title": "High Blood Pressure & Your Diet",
+      "summary": "A short from Dr. Meghana on diet and blood pressure.",
+      "body": "Watch the original short below. Use the YouTube link if embedded playback is unavailable.",
+      "image": "https://i.ytimg.com/vi/48wAP4BbHto/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=48wAP4BbHto",
+      "source": "Dr. Lakshmi Meghana MD · YouTube",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "santosh",
+      "title": "Santosh Pgc",
+      "summary": "Clear explanations",
+      "body": "Her explanations were clear and easy to understand",
+      "image": "",
+      "url": "https://yuktaspecialityclinics.com/#testimonials",
+      "source": "Public review excerpt · Yukta Speciality Clinics",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "hemanth",
+      "title": "Hemanth Hari",
+      "summary": "Time to listen",
+      "body": "Dr. Meghana took the time to listen to all my concerns",
+      "image": "",
+      "url": "https://yuktaspecialityclinics.com/#testimonials",
+      "source": "Public review excerpt · Yukta Speciality Clinics",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "santhirajesh",
+      "title": "Santhirajesh Dodda",
+      "summary": "Clinic feedback",
+      "body": "good service",
+      "image": "",
+      "url": "https://yuktaspecialityclinics.com/#testimonials",
+      "source": "Public clinic review excerpt · Yukta Speciality Clinics",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "gallery": [
+    {
+      "id": "photo-7",
+      "title": "At Work",
+      "summary": "Dr. Meghana at her consultation desk, wearing her white coat and stethoscope.",
+      "body": "Dr. Meghana at her consultation desk, wearing her white coat and stethoscope.",
+      "image": "/assets/gallery-7.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-1",
+      "title": "Clinic Team",
+      "summary": "A group photograph in the consultation room, with clinical equipment in the foreground.",
+      "body": "A group photograph in the consultation room, with clinical equipment in the foreground.",
+      "image": "/assets/gallery-1.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-2",
+      "title": "Professional Recognition",
+      "summary": "Dr. Meghana pictured holding a trophy at a professional event.",
+      "body": "Dr. Meghana pictured holding a trophy at a professional event.",
+      "image": "/assets/gallery-2.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-3",
+      "title": "Award Ceremony",
+      "summary": "A moment from a trophy presentation at the DGC Medical Awards event.",
+      "body": "A moment from a trophy presentation at the DGC Medical Awards event.",
+      "image": "/assets/gallery-3.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-4",
+      "title": "Community Connection",
+      "summary": "A greeting and presentation at Yukta Speciality Clinics.",
+      "body": "A greeting and presentation at Yukta Speciality Clinics.",
+      "image": "/assets/gallery-4.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-5",
+      "title": "Warm Welcome",
+      "summary": "A shared moment at the clinic reception.",
+      "body": "A shared moment at the clinic reception.",
+      "image": "/assets/gallery-5.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-6",
+      "title": "Clinic Moments",
+      "summary": "A group photograph beside equipment in the clinic.",
+      "body": "A group photograph beside equipment in the clinic.",
+      "image": "/assets/gallery-6.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "photo-8",
+      "title": "Team Together",
+      "summary": "A group photograph inside the practice.",
+      "body": "A group photograph inside the practice.",
+      "image": "/assets/gallery-8.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "recognitions": [
+    {
+      "id": "icmr-2011",
+      "title": "ICMR Research · 2011",
+      "summary": "Short-term student research\nIndian Council of Medical Research",
+      "body": "Short-term student research under ICMR in 2011, for the project on blood and general debilities in farmers with chronic pesticide exposure. Reference: 2011-00602.",
+      "image": "",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "dgc-recognition",
+      "title": "DGC Medical Awards",
+      "summary": "Professional recognition\nTrophy presentation",
+      "body": "Dr. Meghana pictured receiving a trophy at a DGC Medical Awards event.",
+      "image": "/assets/gallery-3.png",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "research": [
+    {
+      "id": "platelet-study",
+      "title": "Platelet count to spleen diameter ratio",
+      "summary": "Cross-sectional study · 2022",
+      "body": "Platelet count to spleen diameter ratio as a non-invasive marker to predict esophageal varices in patients with liver cirrhosis — a cross-sectional study. Listed in Dr. Meghana’s supplied CV.",
+      "image": "",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "haemorrhage-case",
+      "title": "Hemosuccus pancreaticus",
+      "summary": "Case report · 2022",
+      "body": "Life-Threatening Upper Gastrointestinal Haemorrhage in Hemosuccus Pancreaticus: A Case Report. Listed in Dr. Meghana’s supplied CV.",
+      "image": "",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "prolactin-diabetes",
+      "title": "Serum prolactin & type 2 diabetes",
+      "summary": "Comparative cross-sectional study · 2022",
+      "body": "Association of Serum Prolactin with Type 2 Diabetes Mellitus: A Comparative Cross-sectional Study from South India. Listed in Dr. Meghana’s supplied CV.",
+      "image": "",
+      "url": "",
+      "source": "",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "copy": {
+    "Dr. Gada Lakshmi Meghana | Physician & Diabetologist": "Dr. Gada Lakshmi Meghana | Physician & Diabetologist",
+    "Skip to content": "Skip to content",
+    "Dr. Gada Lakshmi Meghana": "Dr. Gada Lakshmi Meghana",
+    "GENERAL PHYSICIAN · DIABETOLOGIST": "GENERAL PHYSICIAN · DIABETOLOGIST",
+    "Menu": "Menu",
+    "About": "About",
+    "Expertise": "Expertise",
+    "Education": "Education",
+    "Blogs": "Blogs",
+    "Videos": "Videos",
+    "Testimonials": "Testimonials",
+    "Locations": "Locations",
+    "Get in touch ↗": "Get in touch ↗",
+    "PHYSICIAN · DIABETOLOGIST · CRITICAL CARE": "PHYSICIAN · DIABETOLOGIST · CRITICAL CARE",
+    "Expert medicine.": "Expert medicine.",
+    "Human care.": "Human care.",
+    "Your health is more than a diagnosis.": "Your health is more than a diagnosis.",
+    "Care that listens, understands, and grows with you.": "Care that listens, understands, and grows with you.",
+    "MBBS, MD, DNB (General Medicine), DA, IDCCM": "MBBS, MD, DNB (General Medicine), DA, IDCCM",
+    "Consultant Physician & Diabetologist": "Consultant Physician & Diabetologist",
+    "Critical Care Specialist": "Critical Care Specialist",
+    "Enquire about a consultation": "Enquire about a consultation",
+    "Meet Dr. Meghana": "Meet Dr. Meghana",
+    "Rooted in science.": "Rooted in science.",
+    "Guided by compassion.": "Guided by compassion.",
+    "YOUR PARTNER IN BETTER HEALTH": "YOUR PARTNER IN BETTER HEALTH",
+    "Internal medicine": "Internal medicine",
+    "Diabetes care": "Diabetes care",
+    "Preventive wellness": "Preventive wellness",
+    "Critical care": "Critical care",
+    "A thoughtful approach.": "A thoughtful approach.",
+    "A healthier you.": "A healthier you.",
+    "MEET YOUR DOCTOR": "MEET YOUR DOCTOR",
+    "Care for the person.": "Care for the person.",
+    "Beyond the condition.": "Beyond the condition.",
+    "Dr. Gada Lakshmi Meghana is a dedicated Physician and Diabetologist committed to delivering high-quality, compassionate healthcare.": "Dr. Gada Lakshmi Meghana is a dedicated Physician and Diabetologist committed to delivering high-quality, compassionate healthcare.",
+    "With experience in internal medicine and diabetes management, she helps patients take better control of their health through evidence-based treatments and sustainable lifestyle changes.": "With experience in internal medicine and diabetes management, she helps patients take better control of their health through evidence-based treatments and sustainable lifestyle changes.",
+    "From diabetes, hypertension and thyroid disorders to acute and chronic medical conditions, her approach combines clinical expertise with empathy—giving every patient individual attention and long-term support.": "From diabetes, hypertension and thyroid disorders to acute and chronic medical conditions, her approach combines clinical expertise with empathy—giving every patient individual attention and long-term support.",
+    "LET’S TALK, COMFORTABLY": "LET’S TALK, COMFORTABLY",
+    "English · Telugu · Hindi · Kannada": "English · Telugu · Hindi · Kannada",
+    "Explore her qualifications": "Explore her qualifications",
+    "THE PHILOSOPHY BEHIND THE CARE": "THE PHILOSOPHY BEHIND THE CARE",
+    "“The greatest wealth": "“The greatest wealth",
+    "is health.”": "is health.”",
+    "True health begins with awareness—a harmony": "True health begins with awareness—a harmony",
+    "between the body, mind, and spirit.": "between the body, mind, and spirit.",
+    "01 / LISTEN": "01 / LISTEN",
+    "You deserve to be heard.": "You deserve to be heard.",
+    "Individual attention and empathy are at the heart of every consultation. Your concerns, goals, and daily life help shape your care.": "Individual attention and empathy are at the heart of every consultation. Your concerns, goals, and daily life help shape your care.",
+    "02 / UNDERSTAND": "02 / UNDERSTAND",
+    "Knowledge empowers.": "Knowledge empowers.",
+    "Dr. Meghana is passionate about patient education, helping individuals understand their health and take an active role in their well-being.": "Dr. Meghana is passionate about patient education, helping individuals understand their health and take an active role in their well-being.",
+    "03 / GROW": "03 / GROW",
+    "Small changes. Lasting care.": "Small changes. Lasting care.",
+    "Preventive medicine, mindful living, and sustainable choices support a journey towards vitality, resilience, and inner peace.": "Preventive medicine, mindful living, and sustainable choices support a journey towards vitality, resilience, and inner peace.",
+    "Her mission: to help every person move beyond the absence of disease towards true wellness—where health reflects wholeness and joy.": "Her mission: to help every person move beyond the absence of disease towards true wellness—where health reflects wholeness and joy.",
+    "A FOUNDATION OF CLINICAL EXPERTISE": "A FOUNDATION OF CLINICAL EXPERTISE",
+    "Knowledge with purpose.": "Knowledge with purpose.",
+    "Experience with empathy.": "Experience with empathy.",
+    "Training across general medicine, anaesthesiology, and critical care informs a comprehensive approach to patient health.": "Training across general medicine, anaesthesiology, and critical care informs a comprehensive approach to patient health.",
+    "DNB · General Medicine": "DNB · General Medicine",
+    "Diplomate of National Board": "Diplomate of National Board",
+    "IDCCM · Critical Care Medicine": "IDCCM · Critical Care Medicine",
+    "Yashoda Hospital, Somajiguda": "Yashoda Hospital, Somajiguda",
+    "MD · General Medicine": "MD · General Medicine",
+    "Vydehi Institute of Medical Sciences & Research Centre": "Vydehi Institute of Medical Sciences & Research Centre",
+    "DA · Anaesthesiology": "DA · Anaesthesiology",
+    "Andhra Medical College, King George Hospital": "Andhra Medical College, King George Hospital",
+    "MBBS": "MBBS",
+    "KLE’s Jawaharlal Nehru Medical College, Belgaum": "KLE’s Jawaharlal Nehru Medical College, Belgaum",
+    "BEFORE YOUR VISIT": "BEFORE YOUR VISIT",
+    "A little clarity.": "A little clarity.",
+    "A little reassurance.": "A little reassurance.",
+    "What areas does Dr. Meghana specialise in?": "What areas does Dr. Meghana specialise in?",
+    "Dr. Meghana’s areas of care include general medicine, diabetes and lifestyle diseases, hypertension, thyroid disorders, preventive wellness, adult immunization, infectious diseases, fever evaluation, medical disorders in pregnancy, and geriatric care. She is also a Critical Care Specialist.": "Dr. Meghana’s areas of care include general medicine, diabetes and lifestyle diseases, hypertension, thyroid disorders, preventive wellness, adult immunization, infectious diseases, fever evaluation, medical disorders in pregnancy, and geriatric care. She is also a Critical Care Specialist.",
+    "How can I enquire about a consultation?": "How can I enquire about a consultation?",
+    "Use the WhatsApp button to enquire about availability. See the location cards for consultation hours, and confirm the day and location before visiting.": "Use the WhatsApp button to enquire about availability. See the location cards for consultation hours, and confirm the day and location before visiting.",
+    "Which languages does Dr. Meghana speak?": "Which languages does Dr. Meghana speak?",
+    "Dr. Meghana speaks Telugu, English, Hindi, and Kannada.": "Dr. Meghana speaks Telugu, English, Hindi, and Kannada.",
+    "LET’S START WITH YOU": "LET’S START WITH YOU",
+    "Your next step towards": "Your next step towards",
+    "better health.": "better health.",
+    "Message the clinic to enquire about an appointment.": "Message the clinic to enquire about an appointment.",
+    "Chat on WhatsApp ↗": "Chat on WhatsApp ↗",
+    "Please confirm the day and location before visiting.": "Please confirm the day and location before visiting.",
+    "EXPERT MEDICINE. HUMAN CARE.": "EXPERT MEDICINE. HUMAN CARE.",
+    "Credoforge.": "Credoforge.",
+    "All rights reserved.": "All rights reserved.",
+    "Owner Studio ↗": "Owner Studio ↗",
+    "Gallery": "Gallery",
+    "Articles": "Articles",
+    "Recognition & awards": "Recognition & awards",
+    "Research work": "Research work",
+    "CARE THAT UNDERSTANDS": "CARE THAT UNDERSTANDS",
+    "Expertise for every day.": "Expertise for every day.",
+    "Explore personalised physician care, with clear explanations and answers to your questions.": "Explore personalised physician care, with clear explanations and answers to your questions.",
+    "INSIDE THE PRACTICE": "INSIDE THE PRACTICE",
+    "People. Practice. Moments.": "People. Practice. Moments.",
+    "A closer look at the clinic and Dr. Meghana’s professional journey.": "A closer look at the clinic and Dr. Meghana’s professional journey.",
+    "FROM THE JOURNAL": "FROM THE JOURNAL",
+    "Make room for your health.": "Make room for your health.",
+    "Practical reading to help you prepare, ask questions, and make the most of your consultations.": "Practical reading to help you prepare, ask questions, and make the most of your consultations.",
+    "PATIENT EDUCATION": "PATIENT EDUCATION",
+    "Understand a little more.": "Understand a little more.",
+    "Accessible health explainers with sources for further reading.": "Accessible health explainers with sources for further reading.",
+    "WATCH & LEARN": "WATCH & LEARN",
+    "Health, in conversation.": "Health, in conversation.",
+    "Videos from Dr. Meghana’s YouTube channel, plus updates from Instagram.": "Videos from Dr. Meghana’s YouTube channel, plus updates from Instagram.",
+    "RECOGNITION": "RECOGNITION",
+    "A commitment to care.": "A commitment to care.",
+    "Research and professional recognition from Dr. Meghana’s journey.": "Research and professional recognition from Dr. Meghana’s journey.",
+    "RESEARCH WORK": "RESEARCH WORK",
+    "Curiosity, with purpose.": "Curiosity, with purpose.",
+    "Research publications listed in Dr. Meghana’s CV.": "Research publications listed in Dr. Meghana’s CV.",
+    "PATIENT VOICES": "PATIENT VOICES",
+    "Care that people remember.": "Care that people remember.",
+    "Short excerpts from public reviews of Yukta Speciality Clinics.": "Short excerpts from public reviews of Yukta Speciality Clinics.",
+    "FIND YOUR CONSULTATION": "FIND YOUR CONSULTATION",
+    "Two locations.": "Two locations.",
+    "One caring approach.": "One caring approach.",
+    "DAYTIME CONSULTATION": "DAYTIME CONSULTATION",
+    "EVENING CONSULTATION": "EVENING CONSULTATION",
+    "Get directions ↗": "Get directions ↗",
+    "Confirm appointment ↗": "Confirm appointment ↗",
+    "Consultation hours as provided by the practice. Please confirm availability and the consultation day before your visit.": "Consultation hours as provided by the practice. Please confirm availability and the consultation day before your visit.",
+    "Your questions, answered.": "Your questions, answered.",
+    "Our expertise": "Our expertise",
+    "Ask about a visit ↗": "Ask about a visit ↗",
+    "Watch original": "Watch original",
+    "Open original": "Open original",
+    "View review source": "View review source",
+    "YouTube channel ↗": "YouTube channel ↗",
+    "Instagram updates ↗": "Instagram updates ↗",
+    "Health explainer": "Health explainer",
+    "Read more ↗": "Read more ↗",
+    "Play video": "Play video",
+    "General information, not an individual diagnosis or treatment plan. Discuss your own needs with your doctor.": "General information, not an individual diagnosis or treatment plan. Discuss your own needs with your doctor.",
+    "CLINICAL EXPERIENCE": "CLINICAL EXPERIENCE",
+    "A journey dedicated to care.": "A journey dedicated to care.",
+    "Experience across general medicine, anaesthesiology and critical care.": "Experience across general medicine, anaesthesiology and critical care."
+  },
+  "images": {
+    "portrait": "/assets/doctor-portrait.png",
+    "about": "/assets/doctor-consultation.png"
+  },
+  "homeSections": [
+    {
+      "id": "home",
+      "title": "Hero",
+      "visible": true
+    },
+    {
+      "id": "care-strip",
+      "title": "Care strip",
+      "visible": true
+    },
+    {
+      "id": "about",
+      "title": "About",
+      "visible": true
+    },
+    {
+      "id": "care",
+      "title": "Expertise",
+      "visible": true
+    },
+    {
+      "id": "approach",
+      "title": "Philosophy",
+      "visible": true
+    },
+    {
+      "id": "recognition",
+      "title": "Recognition & Research",
+      "visible": true
+    },
+    {
+      "id": "qualifications",
+      "title": "Education",
+      "visible": true
+    },
+    {
+      "id": "experience",
+      "title": "Experience",
+      "visible": true
+    },
+    {
+      "id": "videos-preview",
+      "title": "Videos",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "title": "Gallery",
+      "visible": true
+    },
+    {
+      "id": "blogs-preview",
+      "title": "Blogs",
+      "visible": true
+    },
+    {
+      "id": "articles-preview",
+      "title": "Articles",
+      "visible": true
+    },
+    {
+      "id": "testimonials-preview",
+      "title": "Testimonials",
+      "visible": true
+    },
+    {
+      "id": "visit-faq",
+      "title": "Visit FAQs",
+      "visible": true
+    },
+    {
+      "id": "locations",
+      "title": "Locations",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "visible": true
+    }
+  ],
+  "education": [
+    {
+      "id": "education-0",
+      "title": "DNB · General Medicine",
+      "summary": "Diplomate of National Board",
+      "source": "2024",
+      "body": "",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "education-1",
+      "title": "IDCCM · Critical Care Medicine",
+      "summary": "Yashoda Hospital, Somajiguda",
+      "source": "2024",
+      "body": "",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "education-2",
+      "title": "MRCP (UK)",
+      "summary": "Membership of the Royal Colleges of Physicians, United Kingdom",
+      "source": "2023",
+      "body": "",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "education-3",
+      "title": "MD · General Medicine",
+      "summary": "Vydehi Institute of Medical Sciences & Research Centre, RGUHS, Bengaluru",
+      "source": "2019–2022",
+      "body": "",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "education-4",
+      "title": "DA · Anaesthesiology",
+      "summary": "Andhra Medical College, King George Hospital, Visakhapatnam",
+      "source": "2016–2018",
+      "body": "",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "education-5",
+      "title": "MBBS",
+      "summary": "KLE’s Jawaharlal Nehru Medical College & Dr. Prabhakar Kore Hospital, Belgaum",
+      "source": "2008–2013",
+      "body": "",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "customSections": [],
+  "experience": [
+    {
+      "id": "experience-0",
+      "title": "Senior Resident · General Medicine",
+      "summary": "ESIC Medical College and Hospital",
+      "source": "Feb 2024 – Present",
+      "body": "Department of General Medicine.",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "experience-1",
+      "title": "Senior Registrar · Critical Care",
+      "summary": "Yashoda Hospital, Somajiguda",
+      "source": "Jan 2023 – Jan 2024",
+      "body": "Critical care medicine.",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "experience-2",
+      "title": "Junior Resident · General Medicine",
+      "summary": "Vydehi Institute of Medical Sciences & Research Centre, Bengaluru",
+      "source": "May 2019 – May 2022",
+      "body": "Affiliated to Rajiv Gandhi University of Health Sciences, Karnataka.",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "experience-3",
+      "title": "Registrar · Anaesthesia & Critical Care",
+      "summary": "Ayushmann Hospitals, Visakhapatnam",
+      "source": "Jul 2018 – Mar 2019",
+      "body": "Anaesthesia and critical care.",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    },
+    {
+      "id": "experience-4",
+      "title": "Junior Resident · Anaesthesiology",
+      "summary": "Andhra Medical College, King George Hospital, Visakhapatnam",
+      "source": "May 2016 – May 2018",
+      "body": "Department of Anaesthesiology.",
+      "image": "",
+      "url": "",
+      "faqs": [],
+      "published": true
+    }
+  ],
+  "presentationVersion": 1,
+  "visitFaqs": [
+    {
+      "question": "What areas does Dr. Meghana specialise in?",
+      "answer": "Dr. Meghana’s areas of care include general medicine, diabetes and lifestyle diseases, hypertension, thyroid disorders, preventive wellness, adult immunization, infectious diseases, fever evaluation, medical disorders in pregnancy, and geriatric care. She is also a Critical Care Specialist."
+    },
+    {
+      "question": "How can I enquire about a consultation?",
+      "answer": "Use the WhatsApp button to enquire about availability. See the location cards for consultation hours, and confirm the day and location before visiting."
+    },
+    {
+      "question": "Which languages does Dr. Meghana speak?",
+      "answer": "Dr. Meghana speaks Telugu, English, Hindi, and Kannada."
+    }
+  ]
+}

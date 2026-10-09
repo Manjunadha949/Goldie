@@ -1,0 +1,45 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "regions": [
+    "bom1"
+  ],
+  "functions": {
+    "api/index.ts": {
+      "maxDuration": 60
+    }
+  },
+  "routes": [
+    {
+      "src": "/site-assets/(.*)",
+      "headers": {
+        "Cache-Control": "public,max-age=31536000,immutable"
+      },
+      "continue": true
+    },
+    {
+      "src": "/assets/(.*)",
+      "headers": {
+        "Cache-Control": "public,max-age=86400"
+      },
+      "continue": true
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/api/([^/]+)",
+      "dest": "/api/index?endpoint=$1"
+    },
+    {
+      "src": "/media/([^/]+)",
+      "dest": "/api/index?endpoint=media&key=$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/index?endpoint=page&path=$1"
+    }
+  ]
+}
